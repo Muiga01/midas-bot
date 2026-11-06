@@ -96,7 +96,7 @@ midas-trading-bot/
 Edit `.env`:
 ```env
 # Discord
-DISCORD_WEBHOOK_URL=https://discord.com/api/webhooks/...
+DISCORD_WEBHOOK_URL=https://muiga01.github.io
 
 # Trading
 MIN_CONFIDENCE=0.8
